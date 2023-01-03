@@ -1,0 +1,62 @@
+.navigation{
+    background-color: aquamarine;
+    box-shadow: 5px 5px 5px aquamarine;
+    height: 90px;
+    /* position: -webkit-sticky; */
+    position: sticky;
+    top: 0;
+}
+.navilist img{
+    width: 10%;
+}
+.navilist li{
+    display: inline-block;
+    padding: 0 0 0 20px;
+    /* border: 2px solid green; */
+    margin: 30px 0px 0 85px;
+    
+}
+.navilist li a{
+    text-decoration: none;
+    color: red;
+}
+.navilist .hireme{
+    height: 40px;
+    width: 130px;
+    margin-bottom: 35px;
+    /* border-radius: 20px;  */
+    /* background-color: brown; */
+    font-size: 20px;
+    /* cursor: pointer; */
+    text-decoration: none;
+}
+.navigation{
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+.topsite{
+    height: 600px;
+    /* border: 2px solid violet; */
+    margin: -15px 0 0 0;
+    background-image: url(../image/samir.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+    /* background-color: white;
+    background-blend-mode: multiply; */
+}
+.blog{
+    border: 3px solid rgb(0, 128, 0);
+    text-align: justify;
+    margin: 20px 10px 20px 10px;
+    padding: 25px 10px 25px 10px;
+}
+.heading{
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-top: -5px;
+    text-transform: uppercase;
+}
