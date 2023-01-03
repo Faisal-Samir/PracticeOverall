@@ -1,6 +1,6 @@
 .navigation{
     background-color: aquamarine;
-    box-shadow: 5px 5px 5px aquamarine;
+    /* box-shadow: 5px 5px 5px aquamarine; */
     height: 90px;
     /* position: -webkit-sticky; */
     position: sticky;
@@ -51,6 +51,7 @@
     text-align: justify;
     margin: 20px 10px 20px 10px;
     padding: 25px 10px 25px 10px;
+    background-color: coral;
 }
 .heading{
     font-size: 1.5em;
